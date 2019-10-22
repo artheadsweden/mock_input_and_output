@@ -1,0 +1,17 @@
+Ett program som låter användaren skriva in värden.
+Värdena skall lagras i listor, som vi kallar stacks.
+Först skall man ange hur många stacks man vill ha.
+Sedan, för varje stack, anger vi först hur många värden som
+ingår i denna stack, sedan de indviduella värdena, separerade
+av mellanslag.
+
+3 <- Antalet stackar
+4 1 2 3 2 <- 4 anger antalet värden i denna stack
+1 2
+0
+
+[
+    [1, 2, 3, 2],
+    [1, 2],
+    []
+]
